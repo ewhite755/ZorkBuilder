@@ -20,5 +20,10 @@ namespace Zork.Builder
             Player player = new Player();
             
         }
+
+        private void MenuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
     }
 }
